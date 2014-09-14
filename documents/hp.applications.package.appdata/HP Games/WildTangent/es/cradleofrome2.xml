@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<items>
+<item>
+ <name>cradleofrome2</name>
+ <title>Cradle of Rome 2</title>
+ <url local="wtapp://wildtangent.com/1/hpcnb3c12/play/cradleofrome2?src=hpmetro" web="http://www.wildtangent.com/Games/cradleofrome2?dp=hpcnb3c12&amp;mc=hpmetroapp" />
+ <version>1.0.1.2315</version>
+ <desc>¡Completa 100 niveles de match 3 y conviértete en el emperador en Cradle of Rome 2!</desc>
+ <image type="tileSquareImage" width="150" height="150">cradleofrome2\_250x250.png</image>
+ <image type="listImage" categoryImage="true" width="250" height="250">cradleofrome2\_250x250.png</image>
+ <image type="tileWideImage" width="310" height="150">cradleofrome2\_310x150.png</image>
+<mode>trial</mode>
+</item>
+</items>

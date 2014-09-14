@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<items>
+<item>
+ <name>polarbowler</name>
+ <title>Polar Bowler</title>
+ <url local="wtapp://wildtangent.com/1/hpcnb3c12/play/polarbowler?src=hpmetro" web="http://www.wildtangent.com/Games/polarbowler?dp=hpcnb3c12&amp;mc=hpmetroapp" />
+ <version>1.0.1.1273</version>
+ <desc>Una bella partita di Polar Bowler al Circolo Birillo di Ghiaccio: mandalo a navigare in mezzo ai birilli!</desc>
+ <image type="tileSquareImage" width="150" height="150">polarbowler\_250x250.png</image>
+ <image type="listImage" categoryImage="true" width="250" height="250">polarbowler\_250x250.png</image>
+ <image type="tileWideImage" width="310" height="150">polarbowler\_310x150.png</image>
+<mode>trial</mode>
+</item>
+</items>

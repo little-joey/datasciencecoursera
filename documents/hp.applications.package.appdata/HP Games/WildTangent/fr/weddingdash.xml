@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<items>
+<item>
+ <name>weddingdash</name>
+ <title>Wedding Dash</title>
+ <url local="wtapp://wildtangent.com/1/hpcnb3c12/play/weddingdash?src=hpmetro" web="http://www.wildtangent.com/Games/weddingdash?dp=hpcnb3c12&amp;mc=hpmetroapp" />
+ <version>1.0.0.4240</version>
+ <desc>Les créateurs de Diner Dash&amp;reg; vous servent sur un plateau encore plus de divertissement… lors d’un mariage !</desc>
+ <image type="tileSquareImage" width="150" height="150">weddingdash\_250x250.png</image>
+ <image type="listImage" categoryImage="true" width="250" height="250">weddingdash\_250x250.png</image>
+ <image type="tileWideImage" width="310" height="150">weddingdash\_310x150.png</image>
+<mode>trial</mode>
+</item>
+</items>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<items>
+<item>
+ <name>plantsvszombies</name>
+ <title>Plants vs. Zombies - Game of the Year</title>
+ <url local="wtapp://wildtangent.com/1/hpcnb3c12/play/plantsvszombies?src=hpmetro" web="http://www.wildtangent.com/Games/plantsvszombies?dp=hpcnb3c12&amp;mc=hpmetroapp" />
+ <version>1.0.0.3678</version>
+ <desc>Siembra plantas en Plants vs. Zombies, un juego de estrategia de acción PopCap.</desc>
+ <image type="tileSquareImage" width="150" height="150">plantsvszombies\_250x250.png</image>
+ <image type="listImage" categoryImage="true" width="250" height="250">plantsvszombies\_250x250.png</image>
+ <image type="tileWideImage" width="310" height="150">plantsvszombies\_310x150.png</image>
+<mode>trial</mode>
+</item>
+</items>

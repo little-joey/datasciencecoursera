@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<items>
+<item>
+ <name>trinklitsupreme</name>
+ <title>Trinklit Supreme</title>
+ <url local="wtapp://wildtangent.com/1/hpcnb3c12/play/trinklitsupreme?src=hpmetro" web="http://www.wildtangent.com/Games/trinklitsupreme?dp=hpcnb3c12&amp;mc=hpmetroapp" />
+ <version>1.0.1.4369</version>
+ <desc>Trinklit é completamente diferente de outros jogos de quebra-cabeça e toneladas de diversão!</desc>
+ <image type="tileSquareImage" width="150" height="150">trinklitsupreme\_250x250.png</image>
+ <image type="listImage" categoryImage="true" width="250" height="250">trinklitsupreme\_250x250.png</image>
+ <image type="tileWideImage" width="310" height="150">trinklitsupreme\_310x150.png</image>
+<mode>trial</mode>
+</item>
+</items>

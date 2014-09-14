@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<items>
+<item>
+ <name>farmfrenzy</name>
+ <title>Farm Frenzy</title>
+ <url local="wtapp://wildtangent.com/1/hpcnb3c12/play/farmfrenzy?src=hpmetro" web="http://www.wildtangent.com/Games/farmfrenzy?dp=hpcnb3c12&amp;mc=hpmetroapp" />
+ <version>1.0.1.2589</version>
+ <desc>Scopri il divertimento sfrenato che ti permette di vedere come è fatto il vecchio MacDonald.</desc>
+ <image type="tileSquareImage" width="150" height="150">farmfrenzy\_250x250.png</image>
+ <image type="listImage" categoryImage="true" width="510" height="510">farmfrenzy\_510x510.png</image>
+ <image type="tileWideImage" width="310" height="150">farmfrenzy\_310x150.png</image>
+<mode>free</mode>
+</item>
+</items>

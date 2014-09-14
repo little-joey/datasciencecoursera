@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<items>
+<item>
+ <name>polarbowlerfacebook</name>
+ <title>Polar Bowler Strike!</title>
+ <url local="wtapp://wildtangent.com/1/hpcnb3c12/play/polarbowlerfacebook?src=hpmetro" web="http://www.wildtangent.com/Games/polarbowlerfacebook?dp=hpcnb3c12&amp;mc=hpmetroapp" />
+ <version>1.0.0.0</version>
+ <desc>加入 Chill Pin Alley 进行史上最酷的保龄球运动！ 加入极受欢迎的 Facebook 版 Polar Bowler 打保龄吧。</desc>
+ <image type="tileSquareImage" width="150" height="150">polarbowlerfacebook\_250x250.png</image>
+ <image type="listImage" categoryImage="true" width="250" height="250">polarbowlerfacebook\_250x250.png</image>
+ <image type="tileWideImage" width="310" height="150">polarbowlerfacebook\_310x150.png</image>
+<mode>trial</mode>
+</item>
+</items>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<items>
+<item>
+ <name>mahjonggartifacts</name>
+ <title>Mahjongg Artifacts</title>
+ <url local="wtapp://wildtangent.com/1/hpcnb3c12/play/mahjonggartifacts?src=hpmetro" web="http://www.wildtangent.com/Games/mahjonggartifacts?dp=hpcnb3c12&amp;mc=hpmetroapp" />
+ <version>1.0.0.4256</version>
+ <desc>Descubre el antiguo mundo del Mahjong en 3 innovadores modos de juego.</desc>
+ <image type="tileSquareImage" width="150" height="150">mahjonggartifacts\_250x250.png</image>
+ <image type="listImage" categoryImage="true" width="250" height="250">mahjonggartifacts\_250x250.png</image>
+ <image type="tileWideImage" width="310" height="150">mahjonggartifacts\_310x150.png</image>
+<mode>trial</mode>
+</item>
+</items>

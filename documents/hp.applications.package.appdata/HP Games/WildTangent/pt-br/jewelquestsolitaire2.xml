@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<items>
+<item>
+ <name>jewelquestsolitaire2</name>
+ <title>Jewel Quest Solitaire 2</title>
+ <url local="wtapp://wildtangent.com/1/hpcnb3c12/play/jewelquestsolitaire2?src=hpmetro" web="http://www.wildtangent.com/Games/jewelquestsolitaire2?dp=hpcnb3c12&amp;mc=hpmetroapp" />
+ <version>1.0.1.2882</version>
+ <desc>Guie a jornada selvagem de Emma pela África em Jewel Quest Solitaire 2!</desc>
+ <image type="tileSquareImage" width="150" height="150">jewelquestsolitaire2\_250x250.png</image>
+ <image type="listImage" categoryImage="true" width="250" height="250">jewelquestsolitaire2\_250x250.png</image>
+ <image type="tileWideImage" width="310" height="150">jewelquestsolitaire2\_310x150.png</image>
+<mode>trial</mode>
+</item>
+</items>

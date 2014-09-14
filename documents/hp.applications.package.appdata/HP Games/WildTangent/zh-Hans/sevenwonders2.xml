@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<items>
+<item>
+ <name>sevenwonders2</name>
+ <title>7 Wonders II</title>
+ <url local="wtapp://wildtangent.com/1/hpcnb3c12/play/sevenwonders2?src=hpmetro" web="http://www.wildtangent.com/Games/sevenwonders2?dp=hpcnb3c12&amp;mc=hpmetroapp" />
+ <version>1.0.1.4372</version>
+ <desc>探索巨石阵和泰姬陵等宏伟建筑。</desc>
+ <image type="tileSquareImage" width="150" height="150">sevenwonders2\_250x250.png</image>
+ <image type="listImage" categoryImage="true" width="250" height="250">sevenwonders2\_250x250.png</image>
+ <image type="tileWideImage" width="310" height="150">sevenwonders2\_310x150.png</image>
+<mode>trial</mode>
+</item>
+</items>
